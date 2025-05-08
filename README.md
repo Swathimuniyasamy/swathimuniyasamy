@@ -27,7 +27,7 @@
 
 - 💌 Email: `swathimuniyasamy03@gmail.com`  
 - 💼 LinkedIn:https://www.linkedin.com/in/swathi-m-8507032b9/
-- 🌍 Portfolio: Coming Soon...
+- 🌍 Portfolio: https://portfolio-gw1l-git-main-swathi-ms-projects.vercel.app/
 
 ---
 
